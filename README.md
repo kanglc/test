@@ -1,1 +1,1 @@
-# Stupid test
+# test RSE Server Git
